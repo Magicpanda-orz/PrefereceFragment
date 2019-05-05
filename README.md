@@ -99,5 +99,9 @@ public class PreFragment extends PreferenceFragment {
 </PreferenceScreen>
 ```
 ### 结果截图：
-![image](https://github.com/Magicpanda-orz/UIModule/blob/master/img/SimpleAdapter.PNG)  
+![image](https://github.com/Magicpanda-orz/PreferenceFragment/blob/master/img/lab4_1.PNG)  
+![image](https://github.com/Magicpanda-orz/PreferenceFragment/blob/master/img/lab4_2.PNG)  
+![image](https://github.com/Magicpanda-orz/PreferenceFragment/blob/master/img/lab4_3.PNG)  
+![image](https://github.com/Magicpanda-orz/PreferenceFragment/blob/master/img/lab4_4.PNG)  
+![image](https://github.com/Magicpanda-orz/PreferenceFragment/blob/master/img/lab4_5.PNG)  
 ##  
